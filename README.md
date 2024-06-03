@@ -1,5 +1,5 @@
 <header id="header" align="center">
-    <h1 align="center">William Molina</h1>
+    <h1 align="center">William Molina 👋🏻 </h1>
     <h2>Backend developer</h2>
     <h3>Based on Spain</h3>
 </header>
