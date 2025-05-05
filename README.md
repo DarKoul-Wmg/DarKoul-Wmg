@@ -12,7 +12,7 @@
 
 <section>
     <h3>Technologies</h3>
-    <img src="https://github.com/devicons/devicon/tree/master/icons/angular" title="angular" alt="angular" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="tailwind" width="50" height="50" style="padding: 0px 20px;">
