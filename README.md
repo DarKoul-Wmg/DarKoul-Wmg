@@ -26,11 +26,14 @@
 
 <section>
     <h3>Languages</h3><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/tree/master/icons/php" title="PHP" alt="PHP" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mdb" alt="mdb" width="50" height="50" style="padding: 0px 20px;">
    
