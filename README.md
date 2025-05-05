@@ -18,7 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="tailwind" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50" style="padding: 0px 20px;">
